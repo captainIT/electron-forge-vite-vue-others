@@ -1,4 +1,7 @@
 electron-forge-vite-vue
-element
-支持dll调用
-支持多语言切换
+
+
+📦 electron-forge
+🌱 element-plus
+💪 支持dll调用
+🔩 支持多语言切换 
